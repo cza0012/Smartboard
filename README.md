@@ -1,7 +1,7 @@
 Smartboard
 ==========
 SmartBoard is the physic2D simulation program. It makes a user can freehand draw an object , and then simulate it, so SmartBoard is able to help a user to understand physic easily. We implement and edit Phys2D library to be physical engine of SmartBoard.
-SmartBoard is originally uploaded at https://sourceforge.net/projects/smart-board/.
+SmartBoard was originally uploaded at https://sourceforge.net/projects/smart-board/.
 
 The video demo
 ------
@@ -13,4 +13,4 @@ Smartboard need developers to adopt it. It was download more than 5000 times in 
 
 Thank you to these developers for contribution
 ------
-atthaboon, chulakorn, sanpasit, zeonstrike
+Atthaboon Sanurt, Chulakorn Aritajati, Sanpasit Pongsatat, Wattanadej, Sarun Krishnalome
