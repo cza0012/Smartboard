@@ -1,0 +1,87 @@
+8
+
+dir
+135
+file:///D:/Trunk/Trunk/org/jfree
+file:///D:/Trunk/Trunk
+
+
+
+2007-12-09T03:33:15.673491Z
+68
+atthaboon
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5cfa2f07-2d6b-c340-9a74-8a35043e524d
+
+chart
+dir
+
+JCommonInfo.class
+file
+
+
+
+
+2008-02-06T02:25:37.367089Z
+e0548df635a755fd3385b4fe3fc17d2a
+2007-12-09T03:33:15.673491Z
+68
+atthaboon
+has-props
+
+text
+dir
+
+JCommon.class
+file
+
+
+
+
+2008-02-06T02:25:37.375877Z
+c82e4f31a465cf3bfcdf5334206bc721
+2007-12-09T03:33:15.673491Z
+68
+atthaboon
+has-props
+
+io
+dir
+
+data
+dir
+
+base
+dir
+
+resources
+dir
+
+threads
+dir
+
+date
+dir
+
+layout
+dir
+
+ui
+dir
+
+util
+dir
+

@@ -1,0 +1,54 @@
+8
+
+dir
+135
+file:///D:/Trunk/Trunk/org/jfree/chart/util
+file:///D:/Trunk/Trunk
+
+
+
+2007-12-09T03:33:15.673491Z
+68
+atthaboon
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5cfa2f07-2d6b-c340-9a74-8a35043e524d
+
+RelativeDateFormat.class
+file
+
+
+
+
+2008-02-06T02:25:22.661975Z
+0b7c4065d8148425ac2c7c783633130f
+2007-12-09T03:33:15.673491Z
+68
+atthaboon
+has-props
+
+HexNumberFormat.class
+file
+
+
+
+
+2008-02-06T02:25:22.664905Z
+5e6949aa1b4e770e65d4cf637d5d5429
+2007-12-09T03:33:15.673491Z
+68
+atthaboon
+has-props
+
